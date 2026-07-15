@@ -33,4 +33,5 @@ Traditional SOCs are built to monitor human logins, but modern environments are 
 In progress — Day 2: SIEM setup
 
 ---
-Built as part of EC-Council SOC Analyst (CSA) certification coursework.
+
+
