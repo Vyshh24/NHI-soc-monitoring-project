@@ -47,5 +47,8 @@ Python script (`risk_scorer.py`) that calculates a weighted risk score per ident
 7. Final report packaging — Not started
 
 ## Status
-In progress — Day 6: Governance & Incident Response Playbook
+Project Complete — all 7 phases delivered
 
+
+## Final Report
+See [final-report.md](./final-report.md) for the full project writeup, including architecture, detection results, risk scoring findings, and lessons learned.
