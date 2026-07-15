@@ -49,5 +49,3 @@ Python script (`risk_scorer.py`) that calculates a weighted risk score per ident
 ## Status
 In progress — Day 6: Governance & Incident Response Playbook
 
----
-Built as part of EC-Council SOC Analyst (CSA) certification coursework.
