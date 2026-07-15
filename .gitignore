@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Except these project files
+!nhi-inventory.md
+!project-scope.md
+!risk_scorer.py
+!README.md
+!.gitignore
